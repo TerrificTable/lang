@@ -1,9 +1,9 @@
 # Lang
 A Simple programing language im working on....<br>
 The file ending is `.l` <br>
-<br><br>
-My code isnt good...
 <br>
+My code isnt good...
+<br><br>
 
 
 ## Syntax
